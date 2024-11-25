@@ -22,7 +22,7 @@ An eCommerce Application backend with Java Spring Boot with frontend using the R
 - Axios
 
 ## Schema Table
-![ER_diagram](https://github.com/Vivekgupta96/eCommerce-Application/assets/119284680/3bd9f9b8-29a8-42fe-93fd-daa931d46c70)
+![ER_diagram](https://github.com/supratiktechandanalytics/Sukart/blob/main/ER_diagram.png)
 
 ## Features
 
