@@ -4,11 +4,6 @@ An eCommerce Application backend with Java Spring Boot with frontend using the R
 
 - Welcome to the documentation for the Ecommerce API, a powerful RESTful API for an Online eCommerce Application developed using Spring Boot, Spring Security with JWT implementation, and React for the frontend. This API provides comprehensive endpoints to support various features of an Ecommerce Application.
 
-### Deployed link: https://eccomers96.netlify.app/
-
-###  Railway Deployed Apis
-https://api-ecom.up.railway.app//swagger-ui/index.html#/
-
 ## Tech Stack and Technology Used
 
 - Java
