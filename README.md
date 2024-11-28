@@ -1,4 +1,4 @@
-# Restful API for Online eCommerce Application using SpringBoot and Reactjs for frontEnd with Spring Security with JWT Implementation
+# Online eCommerce Application 
 
 An eCommerce Application backend with Java Spring Boot with frontend using the Reactjs
 
